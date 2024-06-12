@@ -1,0 +1,236 @@
+.rounded-textbox {
+    width: 350px;
+    height: 80px;
+    font-size: 30px;
+    padding-left: 15px;
+    border-radius: 13px;
+    border-style:solid
+}
+.google-logo {
+    margin-left: 250px;
+    margin-bottom: 5px;
+
+}
+.shadow-no-border-textbox{
+    width: 900px;
+    height: 80px;
+    font-size: 30px;
+    padding-left: 30px;
+    border-radius: 70px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    border: none;
+    margin-left: 0;
+}
+.Email-text {
+    font-size: 25px;
+    color: rgb(85, 84, 84);
+    margin-bottom: 10px;
+}
+.signup-textbox {
+    width: 550px;
+    height: 50px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.policy-text {
+    font-size: 25px;
+    color: rgb(85, 84, 84);
+}
+.AgreeandJoin-button {
+    background-color: rgb(56, 56, 206);
+    color: white;
+    font-family: Arial;
+    font-size: 30px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 200px;
+    padding-right: 200px;
+    border: none;
+    border-radius: 70px;
+}
+.twitter-textbox{
+    width: 800px;
+    height: 100px;
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+.input-icon {
+    width: 100px;
+    height: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    border-color: red;
+    background-color: #fff;
+    vertical-align: middle;
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+
+}
+.input-text {
+    border: none;
+    font-size: 30px;
+    vertical-align: middle;
+
+}
+.input-button {
+    background-color: rgb(89, 89, 248);
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 190px;
+    border-radius: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+    vertical-align: middle;
+    
+}
+.name-inputbox {
+    display: block;
+    width: 350px;
+    height: 45px;
+    font-size: 25px;
+    border-radius: 5px;
+    border-style: solid;
+    margin-bottom: 10px;
+    padding-left: 8px;
+}
+.email-inputbox {
+    display: block;
+    width: 350px;
+    height: 45px;
+    font-size: 25px;
+    border-radius: 5px;
+    border-style: solid;
+    margin-bottom: 10px;
+    padding-left: 8px;
+}
+.survey-text {
+    display: inline-block;
+    width: 400px;
+    font-size: 30px;
+    vertical-align: middle;
+}
+.yes-button {
+    vertical-align: middle;
+    font-size: 30px;
+    width: 80px;
+    height: 40px;
+    margin-right: 5px;
+    border-style: solid;
+    border-radius: 4px;
+}
+.no-button {
+    vertical-align: middle;
+    font-size: 30px;
+    width: 80px;
+    height: 40px;
+}
+.firstname-text {
+    width: 300px;
+    height: 80px;
+    font-size: 30px;
+    color: rgb(85, 84, 84);
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    margin-bottom:10px ;
+
+}
+.lastname-text {
+    width: 300px;
+    height: 80px;
+    font-size: 30px;
+    color: rgb(85, 84, 84);
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-radius:10px;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+.email-text {
+    width: 630px;
+    height: 80px;
+    display: block;
+    font-size: 30px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    margin-top: 15px;
+
+}
+.signup-button {
+    width: 650px;
+    height: 90px;
+    display: block;
+    font-size: 35px;
+    font-weight: bold;
+    background-color: rgb(1, 1, 216);
+    color: white;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    margin-top: 15px;
+    border: none;
+}
+.requestride-text{
+    color: black;
+    font-size: 70px;
+    font-family: Arial;
+    margin-bottom: 30px;
+}
+.pickuplocation-text{
+    background-color: #eeecec;
+    width: 650px;
+    height: 80px;
+    font-size: 25px;
+    display: block;
+    border: none;
+    margin-bottom: 10px;
+    padding-left: 30px;
+
+}
+.destination-text{
+    background-color: #eeecec;
+    width: 650px;
+    height: 80px;
+    font-size: 25px;
+    display: block;
+    border: none;
+    margin-bottom: 50px;
+    padding-left: 30px;
+}
+.request-button{
+    background-color: black;
+    width: 250px;
+    height: 80px;
+    color: white;
+    font-family: Arial;
+    font-size: 25px;
+    border: none;
+    margin-right: 40px;
+}
+.schedule-button{
+    background-color: #eeecec;
+    width: 300px;
+    height: 90px;
+    color: black;
+    font-family: Arial;
+    font-size: 25px;
+    border: none;
+    margin-right: 50px;
+}

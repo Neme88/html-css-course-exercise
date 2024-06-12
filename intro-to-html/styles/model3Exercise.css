@@ -1,0 +1,19 @@
+.model-txt {
+  font-family: Montserrat;
+  font-size: 80px;
+  color: black;
+  margin-bottom: 0;
+}
+.order-txt {
+  font-family: Arial;
+  font-size: 30px;
+  color: black;
+  margin-bottom: 0;
+}
+.touchless-txt {
+  font-family: Arial;
+  font-size: 30px;
+  color: black;
+  margin-bottom: 0;
+  text-decoration: underline;
+}

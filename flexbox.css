@@ -1,0 +1,79 @@
+.main-div {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    
+}
+.div-1 {
+    background-color: lightblue;
+
+}
+.div-2 {
+    background-color: lightpink;
+}
+.div-3 {
+    background-color: lightblue;
+    width: 100px;
+
+}
+.div-4 {
+    background-color: lightpink;
+    flex: 1;
+}
+.div-5 {
+    background-color: lightblue;
+    flex:1 ;
+}
+.div-6 {
+    background-color: lightpink;
+    flex:2;
+}
+.div-7 {
+    background-color: lightblue;
+    flex: 2;
+}
+.flexbox-div {
+    margin-top: 30px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.flexbox-div1 {
+    margin-top: 30px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    display:flex;
+    flex-direction: row;
+    justify-content: start;
+
+}
+.flexbox-div2 {
+    margin-top: 30px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.flexbox1 {
+    background-color: lightblue;
+    width: 100px;
+}
+.flexbox2 {
+    background-color: lightpink;
+    width: 100px;   
+}
+.flexbox3 {
+    background-color: lightblue;
+    width: 100px;
+}

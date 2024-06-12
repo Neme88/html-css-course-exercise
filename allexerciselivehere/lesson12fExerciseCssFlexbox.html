@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Exercise 12F</title>
+    </head>
+    <style>
+        .main-div {
+            display: flex;
+            flex-direction: row;
+            background-color: blueviolet;
+            justify-content: space-between;
+            align-items: center;
+            height: 100px;
+        }
+        .div-1 {
+            width: 200px;
+        }
+        .home-paragraph {
+            font-family: Arial, Helvetica, sans-serif;
+            display: inline-block;
+            color: white;
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        .div-2 {
+            flex: 1;
+        }
+        .div-3 {
+            margin-right: 20px;
+        }
+        .input-element {
+            width: 1200px;
+            height: 50px;
+            border-radius: 50px;
+            border: none;
+            margin-left: 20px;
+            padding-left: 40px;
+            font-size: 20px;
+        }
+        .download-button {
+            width: 150px;
+            padding-top: 15px;
+            padding-bottom: 15px;
+            border-radius:2px;
+            border: solid 2px white;
+            font-size: 20px;
+            background-color: blueviolet;
+            color: white;
+        }
+    </style>
+    <body>
+        <div  class ="main-div">
+                <div class="div-1">
+                    <p class="home-paragraph">Home</p>
+                </div>
+                <div class="div-2">
+                    <input class="input-element" type="text" placeholder="Search">
+                </div>
+               <div class="div-3">
+                <button class="download-button">Download</button>
+             </div>
+        </div>
+    </body>
+</html>
